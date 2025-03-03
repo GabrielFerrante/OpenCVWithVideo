@@ -10,4 +10,3 @@ Aprenda a trabalhar com vídeos e streams usando OpenCV! Este repositório forne
 - **Conexão com Câmeras RTSP/IP**
 - **Reconexão Automática em Streams Instáveis**
 - **Captura de Tela como Fonte de Vídeo**
-- **Processamento de Vídeos do YouTube**
